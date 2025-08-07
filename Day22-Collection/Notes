@@ -122,10 +122,3 @@ System.out.println(vector.capacity()); // Capacity handling
 
 ---
 
-Would you like:
-
-* A performance comparison program for all three?
-* Interview-style questions to test your understanding?
-* A project where you choose the best collection type?
-
-Let me know how you want to explore next!
